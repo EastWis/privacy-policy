@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy – East Wisconsin Savings Bank Mobile App</title>
+</head>
+
+<body style="margin:0; font-family: Arial, sans-serif; background-color:#ffffff;">
+
+<!-- HEADER / LOGO -->
+<div style="text-align:center; padding:20px 10px;">
+    <img src="https://eastwis.bank/sft1834/ewsb_fullcolor.jpg" 
+         alt="East Wisconsin Savings Bank" 
+         style="max-width:300px; height:auto;">
+    <h1 style="margin:10px 0 5px 0; font-size:22px; color:#000;">
+        Privacy Policy
+    </h1>
+    <p style="margin:0; font-size:14px;">
+        East Wisconsin Savings Bank Mobile Application
+    </p>
+</div>
+
+<!-- REVISION -->
+<div style="text-align:right; padding:0 20px;">
+    <p><em>Rev. 06/2025</em></p>
+</div>
+
+<!-- MAIN CONTENT -->
+<div style="padding:0 20px 30px 20px;">
+
+<table style="width:100%; border-collapse:collapse; font-family: Arial, sans-serif;">
+    
+    <tr>
+        <th style="background:black; color:white; padding:15px; font-size:20px; text-align:center;" colspan="2">
+            Facts – What does East Wisconsin Savings Bank do with your personal information FROM THE MOBILE APPLICATION?
+        </th>
+    </tr>
+
+    <!-- WHY -->
+    <tr>
+        <th style="background:#595959; color:white; padding:10px; width:25%; text-align:left;">Why?</th>
+        <td style="border:1px solid #595959; padding:10px;">
+            <ul>
+                <li>The mobile application requests access to information stored on your device such as location, camera, contacts, or other features you are enrolled in to enrich and simplify your user experience and improve our services, as well as provide additional security to protect your account.</li>
+                <li>Before granting access, you will be prompted to provide permission.</li>
+                <li>If you do not wish to grant that permission, you may decline.</li>
+                <li>If you later change your decision, permissions can be updated in your device settings.</li>
+            </ul>
+        </td>
+    </tr>
+
+    <!-- WHAT -->
+    <tr>
+        <th style="background:#595959; color:white; padding:10px; text-align:left;">What?</th>
+        <td style="border:1px solid #595959; padding:10px;">
+            <p>Some examples of information your app may request access to include:</p>
+            <ul>
+                <li>Location</li>
+                <li>Contacts</li>
+                <li>Camera</li>
+            </ul>
+        </td>
+    </tr>
+
+    <!-- QUESTIONS -->
+    <tr>
+        <th style="background:#595959; color:white; padding:10px; text-align:left;">Questions?</th>
+        <td style="border:1px solid #595959; padding:10px;">
+            <p>
+                Please contact East Wisconsin Savings Bank at 
+                <a href="tel:+19207664646">920-766-4646</a> regarding questions about this Mobile Privacy Disclosure or the application.
+            </p>
+
+            <p>
+                You can also view our full privacy policy at 
+                <a href="https://www.eastwis.bank/privacy-policy.html">
+                    www.eastwis.bank/privacy-policy.html
+                </a>
+            </p>
+        </td>
+    </tr>
+
+</table>
+
+</div>
+
+</body>
+</html>
